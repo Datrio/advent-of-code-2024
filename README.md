@@ -1,8 +1,6 @@
 # Approach
 
-I start every day with defining the problem and trying to run my first solution in JS on example.txt. Once that's working, I switch the execution to input.txt and solve any edge cases. Then I might switch to PHP or go to part 2.
-
-For the PHP solution to save the time, I ask ChatGPT to rewrite my JS solution into PHP and then search for optimizations and specific PHP solutions I can apply.
+I start every day with defining the problem and trying to run my first solution in JS on example.txt. Once that's working, I switch the execution to input.txt and solve any edge cases. Rinse and repeat for part 2.
 
 # Scripts
 
